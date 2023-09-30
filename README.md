@@ -13,7 +13,7 @@
 ⚡ Fun fact *I'm a coffee enthusiast ☕, and I believe it's the secret to my coding superpowers.*
 
 
-# <img src="https://media.giphy.com/media/uwmNTx7NaDbJnXlKbx/giphy.gif" width="35px"> 𝑺𝒐𝒄𝒊𝒂𝒍𝒔:
+# <img src="https://media.giphy.com/media/uwmNTx7NaDbJnXlKbx/giphy.gif" width="30px"> 𝑺𝒐𝒄𝒊𝒂𝒍𝒔:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habeeba-firdouse/)
 <br /> <br />
 
