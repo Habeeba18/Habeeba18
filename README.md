@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Habeeba18</h1>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
+<img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/757027018639253384/">
 
 [![](https://visitcount.itsvg.in/api?id=Habeeba18&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
-# <img src="https://in.pinterest.com/pin/757027018639253384/" width="30px"> 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆:
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆:
 
 🌱 I’m currently pursuing *Full Stack Development training* at *Pentagon Space*
 
