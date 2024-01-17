@@ -4,11 +4,11 @@
 [![](https://visitcount.itsvg.in/api?id=Habeeba18&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆:
 
-🌱 I’m currently pursuing *Full Stack Development training* at *Pentagon Space*
+🌱 I have completed my *Full Stack Development training* at *Pentagon Space*
 
-💬 Ask me about *HTML, CSS, Javascript ,Python , MySQL *
+💬 Ask me about *HTML, CSS, Javascript ,Python , Angularjs*
 
-📫 How to reach me **firdouse0818@gmail.com**
+📫 Reach me at **firdouse0818@gmail.com**
 
 ⚡ Fun fact *I'm a coffee enthusiast ☕, and I believe it's the secret to my coding superpowers.*
 
