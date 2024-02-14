@@ -1,12 +1,12 @@
 <h1 align="center">Hello 👋,Habeeba this side </h1>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/programmer-working-with-cms_52683-23279.jpg?w=740&t=st=1696826366~exp=1696826966~hmac=6b49583270c7253b8912d49d452a9150d9f15b09d05a459e541c77cfda085c54">
+
 
 [![](https://visitcount.itsvg.in/api?id=Habeeba18&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆:
 
 🌱 I am working on some React Js projects
 
-💬 Ask me about *HTML, CSS, Javascript ,Python , Angularjs*
+💬 Ask me about *"HTML, CSS, Javascript ,Python , Angularjs"*
 
 📫 Reach me at **firdouse0818@gmail.com**
 
