@@ -4,7 +4,7 @@
 [![](https://visitcount.itsvg.in/api?id=Habeeba18&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆:
 
-🌱 I am working on some Javascript projects
+🌱 I am working on some React Js projects
 
 💬 Ask me about *HTML, CSS, Javascript ,Python , Angularjs*
 
