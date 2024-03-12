@@ -1,16 +1,16 @@
-<h1 align="center">Hey there!👋 Habeeba here </h1>
+<h1 align="center">Hey there!👋 I am Habeeba </h1>
 
 
 [![](https://visitcount.itsvg.in/api?id=Habeeba18&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆:
 
-🌱 I am working on some React Js projects
+🌱 Currently, I'm diving deep into ReactJS, crafting innovative projects and pushing the boundaries of web development.💻✨🚀
 
-💬 Ask me about *"HTML, CSS, Javascript ,Python , Angularjs"*
+💬 Have you explored HTML for web pages, CSS for styling, JavaScript for interactivity, Python for versatility, and AngularJS for web app magic?
 
-📫 Reach me at **firdouse0818@gmail.com**
+📫 Let's connect at **firdouse0818@gmail.com**
 
-⚡ Fun fact *I'm a coffee enthusiast ☕, and I believe it's the secret to my coding superpowers.*
+⚡ Did you know that *I'm a bug buster 🐜, fixing problems with ease.*
 
 
 # <img src="https://media.giphy.com/media/uwmNTx7NaDbJnXlKbx/giphy.gif" width="30px"> 𝑺𝒐𝒄𝒊𝒂𝒍𝒔:
