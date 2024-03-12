@@ -10,7 +10,7 @@
 
 📫 Let's connect at **firdouse0818@gmail.com**
 
-⚡ Did you know that *I'm a bug buster 🐜, fixing problems with ease.*
+⚡ Did you know that **I'm a bug buster 🐜, fixing problems with ease.**
 
 
 # <img src="https://media.giphy.com/media/uwmNTx7NaDbJnXlKbx/giphy.gif" width="30px"> 𝑺𝒐𝒄𝒊𝒂𝒍𝒔:
